@@ -1,2 +1,2 @@
-# Analisador_L-xico
+# Analisador_Lexico
 Compiladores
